@@ -1,5 +1,3 @@
-"""Application entry point for Smart File Organizer."""
-
 from controllers.organizer_controller import FileOrganizerController
 from models.organizer_model import FileOrganizerModel
 from views.organizer_view import FileOrganizerView
