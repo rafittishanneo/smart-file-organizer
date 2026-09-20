@@ -1,7 +1,3 @@
-"""Controller layer: connects the file organizer model and user interface.
-Replace controllers/organizer_controller.py with this entire file.
-"""
-
 from __future__ import annotations
 
 import threading
