@@ -1,5 +1,3 @@
-"""Model layer: file scanning, organization, duplicate detection, logging, and undo."""
-
 from __future__ import annotations
 
 import hashlib
