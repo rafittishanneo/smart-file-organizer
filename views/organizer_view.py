@@ -1,3 +1,9 @@
+"""Modern colorful view for Smart File Organizer.
+
+Replace views/organizer_view.py with this entire file.
+No external packages are required.
+"""
+
 from __future__ import annotations
 
 import tkinter as tk
